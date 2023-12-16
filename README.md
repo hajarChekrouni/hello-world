@@ -5,5 +5,5 @@ Contributing your solutions will help the community a lot. It is a way for the o
 You can contribute your solution by doing the following steps :
 - Write a small app in your favorite language to solve exercise.
 - Add comments or a README file explaining how others how to use your solution.
-- Publish  it on github or any other publicaly accessible place (you https://github.com/new orjust put it into a https://gist.github.com/). Blog post also work.
+- Publish  it on github or any other publicaly accessible place (you github.com/new orjust put it into a gist.github.com/). Blog post also work.
 - Add a link to this page. You can do this by editing it directly in this UI and going for the option: Create a *new branch* fot this commit and start a pull request. Github will do the rest for you.  
